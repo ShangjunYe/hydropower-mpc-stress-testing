@@ -1,1 +1,0 @@
-# hydropower-mpc-stress-testing
